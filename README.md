@@ -39,4 +39,4 @@ the following:
 ## Test SAMBA
 In the address bar of your file browser type \\ip-raspberrypi and enter your user and pass.
 For example on Windows 10.
-![samba](https://github.com/EduardoAule/SAMBA-Raspberry-PI/samba.png)
+![samba](https://github.com/EduardoAule/SAMBA-Raspberry-PI/blob/master/samba.png)
