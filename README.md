@@ -1,4 +1,4 @@
-# SAMBA with Raspberry PI
+# SAMBA and Raspberry PI
 
 ## Install Samba
 
