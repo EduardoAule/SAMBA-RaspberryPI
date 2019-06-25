@@ -40,4 +40,4 @@ the following:
 In the address bar of your file browser type \\\ip-raspberrypi and enter your user and pass.
 For example on Windows 10.
 
-![samba-image](samba.png?raw=true "Samba image")
+![samba-windows](https://github.com/EduardoAule/SAMBA-Raspberry-PI/blob/master/samba.png)
